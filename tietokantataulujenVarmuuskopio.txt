@@ -12,15 +12,16 @@ Kuvitteellisia tietoja vain jotta ohjelma voisi toimia. Kaikki tiedot ovat keksi
 
 INSERT INTO asiakkaat (etunimi, sukunimi, email) VALUES
 ('Matti', 'Meikäläinen', 'matti.meikalainen@eioikeaosoite.com'),
-('Liisa', 'Liisssa, 'liisa@kaikkikeksitty.com'),
-('Pekka', 'Testi, 'pekka.testi@vainesimerkki.com'),
+('Liisa', 'Liisssa', 'liisa@kaikkikeksitty.com'),
+('Pekka', 'Testi', 'pekka.testi@vainesimerkki.com'),
 ('Sanna', 'Keksitty', 'sanna.keksitty@harjoitellaansqlaa.com'),
 ('Heikki', 'Esimerkki', 'heikki@vainesimerkki.com'),
 ('Hanna', 'Esimerkki', 'hanna.esimerkki@harjoitellaansqlaa.com'),
-('Liisa, 'Testi', 'liisa.testi@vainesimerkki.com'),
+('Liisa', 'Testi', 'liisa.testi@vainesimerkki.com'),
 ('Eveliina', 'Meikäläinen', 'eveliina.meikalainen@harjoitellaansqlaa.com'),
-('Liisa’, 'Testi', 'janne.hamalainen@harjoitellaansqlaa.com'),
-('Oona', 'Esimerkki, 'oona.esimerkki@kaikkikeksitty.com'),
-(’Essi’, ’Esimerkki’, ’essi.esimerkki@kaikkikeksitty.com');
+('Liisa', 'Testi', 'liisa.testi@harjoitellaansqlaa.com'),
+('Oona', 'Esimerkki', 'oona.esimerkki@kaikkikeksitty.com'),
+('Essi', 'Esimerkki', 'essi.esimerkki@kaikkikeksitty.com');
+
 
 
