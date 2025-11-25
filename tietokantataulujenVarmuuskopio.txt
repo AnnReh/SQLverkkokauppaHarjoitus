@@ -1,0 +1,9 @@
+Asiakkaat taulun kopio
+
+CREATE TABLE asiakkaat (
+    as_id INT AUTO_INCREMENT PRIMARY KEY,
+    etunimi VARCHAR(50) NOT NULL,
+    sukunimi VARCHAR(100) NOT NULL,
+    email VARCHAR(50) UNIQUE NOT NULL,
+    luotu DATETIME DEFAULT CURRENT_TIMESTAMP
+);
