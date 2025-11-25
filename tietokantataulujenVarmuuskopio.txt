@@ -21,6 +21,6 @@ INSERT INTO asiakkaat (etunimi, sukunimi, email) VALUES
 ('Eveliina', 'Meikäläinen', 'eveliina.meikalainen@harjoitellaansqlaa.com'),
 ('Liisa’, 'Testi', 'janne.hamalainen@harjoitellaansqlaa.com'),
 ('Oona', 'Esimerkki, 'oona.esimerkki@kaikkikeksitty.com'),
-(’Essi’, ’Esimerkki’, ’essi.esimerkki@kaikkikeksitty.com'’);
+(’Essi’, ’Esimerkki’, ’essi.esimerkki@kaikkikeksitty.com');
 
 
