@@ -3,7 +3,7 @@
 $serverinimi = "localhost";
 $kayttajanimi = "root";
 $salasana = ""; 
-$tietokanta = "ecommerce"; // korvaa omalla tietokantasi nimellä
+$tietokanta = "sqlkertausharjoitus"; // korvaa omalla tietokantasi nimellä
 
 $yhdista = new mysqli($serverinimi, $kayttajanimi, $salasana, $tietokanta);
 
