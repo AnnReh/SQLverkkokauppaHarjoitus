@@ -1,3 +1,6 @@
+<?php
+    include 'navvalikko.php';
+?>
 <!DOCTYPE html>
 <html>
     <head>
