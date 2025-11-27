@@ -39,9 +39,10 @@
     </div>
 
     <div class="nav-links">
+        <a href="index.php">Etusivu</a>
         <a href="lisaa_tuote.php">Lisää tuote</a>
+        <a href="tuotteet.php">Tuotteet</a>
         <a href="lisaa_asiakas.php">Lisää asiakas</a>
-        <a href="tuotteet.php">Tarkista tuotteiden myynti</a>
         <a href="asiakkaat.php">Asiakkaat</a>
     </div>
 </div>
